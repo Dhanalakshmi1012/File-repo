@@ -1,0 +1,13 @@
+Day 2: 
+
+Basic Comments:
+
+•Git init
+•Git add .
+•Git add filename
+•Git commit
+•Git push
+•Git pull
+•Git log
+•Git delete –rm(delete some file from WD ./SA)
+•Git checkout
